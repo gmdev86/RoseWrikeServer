@@ -1,0 +1,9 @@
+{
+  "name": "rose-wrike-server",
+  "version": "0.0.0",
+  "description": "RoseWrikeServer",
+  "main": "server.js",
+  "author": {
+    "name": "davis8"
+  }
+}
